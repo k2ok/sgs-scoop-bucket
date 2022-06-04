@@ -1,10 +1,10 @@
 {
-    "version": "3.2.3",
+    "version": "3.2.2",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.3/DesktopNaotu-win32-x64.zip",
-            "hash": "2dc6b98fb719dd1f6bfc04073a54b87f165051b121d0b7292d1a0c40b72d6c15",
+            "url": "https://github.com/NaoTu/DesktopNaotu/releases/download/v3.2.2/DesktopNaotu-win32-x64.zip",
+            "hash": "657367ab1b0c35d7068893b06e5b7d4fa7f1a2c8e49c9ea0b4937a86c7b7ce5a",
             "extract_dir": "DesktopNaotu-win32-x64"
         }
     },
