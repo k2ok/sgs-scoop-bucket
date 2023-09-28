@@ -1,13 +1,13 @@
 {
-    "version": "3.11.3.1",
+    "version": "3.11.5.0",
     "description": "Free, open-source and portable Python distribution for Windows",
     "homepage": "https://winpython.github.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/winpython/winpython/releases/download/6.1.20230527/Winpython64-3.11.3.1.exe#/dl.7z",
-            "hash": "4bc2c603ed1e0c2c075293c0a65e5262556e713958559c7f61b97d5a66a1334d",
-            "extract_dir": "WPy64-31131\\python-3.11.3.amd64"
+            "url": "https://github.com/winpython/winpython/releases/download/7.0.20230928/Winpython64-3.11.5.0.exe#/dl.7z",
+            "hash": "5b053362706b2cb9561ebd064570813dafc99598b7c7d9473e7361313b820178",
+            "extract_dir": "WPy64-31150\\python-3.11.5.amd64"
         }
     },
     "bin": [
