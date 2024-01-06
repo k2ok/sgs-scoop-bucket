@@ -1,11 +1,11 @@
 {
     "homepage": "https://www.r-project.org",
-    "version": "3.5.2",
+    "version": "3.5.1",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/thequackdaddy/R-OpenBLAS/releases/download/v3.5.2/R-3.5.2-win.exe",
-            "hash": "85f3e572ea55c374358b5150aa7104e47988122dcd720ff547eb2477a2cb89e7",
+            "url": "https://github.com/thequackdaddy/R-OpenBLAS/releases/download/v3.5.1/R-3.5.1-win.exe",
+            "hash": "c0eb75a44a0f0a9410db9af4b407000f49984184ae3dd1b2489ad51b3eefbb55",
             "pre_install": "copy-item -recurse \"$dir\\bin\\x64\" \"$dir\\bin\\curr_arch\""
         }
     },
