@@ -1,12 +1,12 @@
 {
-    "version": "1.10.5",
+    "version": "1.11.0",
     "description": "A programming language that is a fresh approach to technical computing.",
     "homepage": "https://julialang.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x64/1.10/julia-1.10.5-win64.exe",
-            "hash": "82b4674bfb6d0422c2f1ccc4794c6d910252a3063f0220f68f80891f53aa581e"
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/julia-releases/bin/winnt/x64/1.11/julia-1.11.0-win64.exe",
+            "hash": "7de521dfc4b874150d4d2b3001fc1fdae4083a7a1b07c5d7704d00052b6c118e"
         }
     },
     "innosetup": true,
