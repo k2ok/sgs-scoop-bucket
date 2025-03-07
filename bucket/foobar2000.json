@@ -1,12 +1,12 @@
 {
-    "version": "2.24.2",
+    "version": "2.24.3",
     "license": {
         "identifier": "Freeware",
         "url": "https://www.foobar2000.org/license"
     },
     "homepage": "https://www.foobar2000.org/",
-    "url": "https://www.videohelp.com/download/foobar2000_v2.24.2.exe",
-    "hash": "35c5465221c77d469dde411c6a5bc1b52509960b554fbf6ba76824a6d5554bd9",
+    "url": "https://www.videohelp.com/download/foobar2000_v2.24.3.exe",
+    "hash": "785e9fe2fa65ef40841309b2208eeedd99df1ac36fc3aeff35cd20a0249438d9",
     "shortcuts": [
         [
             "foobar2000.exe",
