@@ -1,13 +1,13 @@
 {
-    "version": "4.0.0-rc4",
+    "version": "4.0.0-rc5",
     "description": "An open-source, cross-platform family of tools designed to build, test and package software.",
     "homepage": "https://cmake.org/",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://cmake.org/files/v4.0/cmake-4.0.0-rc4-windows-x86_64.zip",
-            "hash": "71ec6d8f2096ef735681beb514aae523fecbd05b8129d65d907bb86222407c12",
-            "extract_dir": "cmake-4.0.0-rc4-windows-x86_64"
+            "url": "https://cmake.org/files/v4.0/cmake-4.0.0-rc5-windows-x86_64.zip",
+            "hash": "8fcc162826aa5f087f084e86e0bafa0e6d6423dcfbb7a0d813b0d4fe28ed7873",
+            "extract_dir": "cmake-4.0.0-rc5-windows-x86_64"
         }
     },
     "shortcuts": [
